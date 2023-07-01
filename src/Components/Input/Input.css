@@ -1,0 +1,15 @@
+div.input{
+    position: relative;
+}
+div.input label{
+    color: beige;
+}
+div.input i{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #7e6034;
+}
+div.input i.pass{
+    cursor: pointer;
+}
